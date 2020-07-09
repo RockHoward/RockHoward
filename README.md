@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Julia, Data Science, Machine Learning and the Korean language.
 - 🔭 I earned a B.S. in Physics/Astronomy from CalTech and co-discovered the star 87 Leo Prime.
 
-As RockHoward.com I have assembled a small team of talented coders. We have submitted a grant proposal regarding web monetization and are developing several projects related to the new PayId Protocol.
+RockSolidSoftware.com is a small team of talented coders that I have assembled that is seeking new projects. We have submitted a grant proposal regarding web monetization and are currently developing several projects related to the new PayId Protocol.
